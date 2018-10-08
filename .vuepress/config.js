@@ -28,6 +28,10 @@ module.exports = {
                 text: 'Start',
                 link: '/docs/',
             },
+              {
+                text: 'HiMrM',
+                link: '/docs/',
+            },
             {
                 text: 'Admin',
                 link: '/admin',
