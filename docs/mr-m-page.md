@@ -1,5 +1,6 @@
 ---
 title: Mr. M. Page
+body1: '# Hey this Body 1'
 ---
 # Mr. M. was here
 ---
