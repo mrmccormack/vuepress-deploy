@@ -16,4 +16,5 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Body1", name: "body1", widget: "markdown", hint: "Main content goes here."}
+      - {label: "Titlexx", name: "titlexx", widget: "string"}
 
