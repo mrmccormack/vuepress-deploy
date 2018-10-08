@@ -1,5 +1,15 @@
 ---
 title: NetlifyCMS
+body1: |
+  # This is BODY1 from netlify cms editor
+
+  ---
+  ```
+  Go to your Netlify dashboard and click on your project.
+  Navigate to Settings > Access control > OAuth.
+  Under Authentication Providers, click Install Provider.
+  Select GitHub and enter the Client ID and Client Secret, then save.
+  ```
 ---
 # NetlifyCMS
 
@@ -30,4 +40,3 @@ Select GitHub and enter the Client ID and Client Secret, then save.
 
 Now you can loggin to your NetlifyCMS with '/admin' after the URL of your site.
 
-## Bedienung des CMS
