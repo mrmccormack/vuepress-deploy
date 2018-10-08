@@ -15,5 +15,5 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown", hint: "Main content goes here."}
+      - {label: "Body1", name: "body1", widget: "markdown", hint: "Main content goes here."}
 
