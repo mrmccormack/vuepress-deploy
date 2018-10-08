@@ -9,5 +9,5 @@ body1: |+
 
 titlexx: 'OK, Rob, thisi s TITLEXX from the pwa page.... <b>hello</b>'
 ---
-# Progressive Web Apps
+# Progressive Web Apps BODY....
 - and nothning more...
