@@ -1,6 +1,7 @@
 ---
-sidebar: auto
 title: Markdown examples
+body1: '**This is BODY1 **'
+titlexx: This is **TITLEXX**
 ---
 # Markdown examples
 Edit on 30.04.2018 with NetlifyCMS
